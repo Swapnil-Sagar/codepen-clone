@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 0.5rem;
-  background-color: hsl(225, 6%, 25%);
+  background-color: hsl(226, 33%, 23%);
 }
 
 .editor-container.collapsed {
