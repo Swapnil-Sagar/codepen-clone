@@ -57,3 +57,33 @@ body {
   border-bottom-left-radius: 0.5rem;
   overflow: hidden;
 }
+.footer {
+  position: absolute;
+  left: 0px;
+  bottom: -10;
+  width: 100%;
+  background-color: rgb(66, 82, 90);
+  color: rgb(204, 204, 204);
+}
+
+.footer-title {
+  margin-left: 15px;
+  margin-bottom: 1%;
+  float: left;
+  font-size: 17px;
+}
+
+.footer-by {
+  float: right;
+  margin-right: 20px;
+  margin-top: 1%;
+  font-size: 18px;
+}
+
+.github {
+  margin-top: 10px;
+  margin-left: 35%;
+  color: aliceblue;
+  font-size: 35px;
+  display: inline-block;
+}
