@@ -14,7 +14,13 @@ function Footer() {
         >
           <FaGithub />
         </a>
-        <p className="footer-by">Made with 💙 by Swapnil Sagar</p>
+        <p className="footer-by">
+          Made with{" "}
+          <span role="img" aria-label="blue-heart">
+            💙
+          </span>{" "}
+          by Swapnil Sagar
+        </p>
       </div>
     </div>
   );
